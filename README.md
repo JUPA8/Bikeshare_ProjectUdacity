@@ -1,2 +1,5 @@
 # Bikeshare_ProjectUdacity
-This Project is about analysis for the three city in America Chicago , New York , Washington. We make analysis using NUMPY , PANDAS , DATATIME , SEABORN and see the specific time for any state.
+You are to display statistics about US bikeshare system. The Displayed
+will change depending on the user’s choices > U.S Cities – Chicago, Washington, and New York City – to
+Display information such as most popular days or most common stations. Python, Numpy, Pandas,
+MatplotLib, Seaborn, Time.
